@@ -1,1 +1,1 @@
-## **Just simple *calculator***
+## **Just simple CLI *calculator***
