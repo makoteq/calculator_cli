@@ -1,0 +1,22 @@
+{
+  "name": "calulator",
+  "version": "1.0.2",
+  "description": "simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "makoteq",
+  "license": "MIT",
+  "bin": {
+    "cal": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/makoteq/calculator_cli.git"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0"
+  }
+}
